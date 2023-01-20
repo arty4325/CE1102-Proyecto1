@@ -1,0 +1,7 @@
+Instituto Tecnologico de Costa Rica
+Licenciatura en Ingenieria en Computadores
+Taller de Programacion
+Profesor: Ing. Milton Villegas Lemus
+Estudiante: Oscar Arturo Acuna Duran (2022049304)
+Version: 4.2
+Fecha de Ultima Modificacion: 5/7/2022

@@ -1,0 +1,4 @@
+Para iniciar sesion por favor digite un nombre de usuario
+que no contenga mas de diez caracteres, luego de digitarlo 
+estripe el boton "Username"
+Se despliegara un boton que le permitira comenzar a jugar
